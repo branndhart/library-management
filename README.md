@@ -16,9 +16,12 @@
 ```bash
 git clone https://github.com/yourusername/library-management.git
 cd library-management
+```
 
 2. **Установите зависимости**
  - Можете пропустить этот шаг
 
-3. **Запуск приложения**
- - python main.py (Убедитесь что вы находитесь в нужной директории)
+3. **Запуск приложения (убедитесь что вы находитесь в нужной директории)**
+```
+ - python main.py
+```
