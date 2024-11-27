@@ -23,5 +23,5 @@ cd library-management
 
 3. **Запуск приложения (убедитесь что вы находитесь в нужной директории)**
 ```
- - python main.py
+ python main.py
 ```
