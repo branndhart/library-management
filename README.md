@@ -14,7 +14,7 @@
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/yourusername/library-management.git
+git clone https://github.com/branndhart/library-management.git
 cd library-management
 ```
 
